@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useState, useEffect } from "react";
 import { ethers, utils } from "ethers";
 import { Modal } from "./components/Modal";
