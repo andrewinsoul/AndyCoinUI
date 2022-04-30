@@ -25,4 +25,4 @@ This React application implements a cryptocurrency called AndyCoin, it is intera
 
 ## Deployment
 
-You can check out the deployed DApp [here](https://6265b5f024f612773d98a312--nimble-jelly-d1c323.netlify.app/) ✨✨
+You can check out the deployed DApp [here](https://626d233e2737b50008662c03--unrivaled-kringle-71d315.netlify.app/) ✨✨
